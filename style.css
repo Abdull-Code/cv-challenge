@@ -7,7 +7,7 @@
 }
 body{
     background-color: #f8f9fa;
-    font-size: 18px;
+    font-size: 17px;
     text-transform: capitalize;
     font-family: "Lato", sans-serif;
     font-weight: 500;
@@ -15,11 +15,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: auto;
 }
 .container{
-    width: 70%; 
-    max-width: 1200px;
+    width: 700px; 
     background-color: #fff;
     padding: 30px;
     border: 3px solid #8c8888;
@@ -66,7 +65,7 @@ ul, li{
         font-size: 1.5rem;
     }
     .title, .sub-title {
-        font-size: 17px;
+        font-size: 16px;
     }
 }
 
